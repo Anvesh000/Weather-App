@@ -1,8 +1,8 @@
-Weather App
+Weather App:
 This Python script uses the OpenWeatherMap API to get the most recent weather data for a specified city.
 
-Required conditions
-Make sure you have Python installed on your machine before executing the script. Additionally, an OpenWeatherMap API key is required. To get the API key, visit their website and create a free account.
+Required conditions:
+Have Python installed on machine before executing the script. Additionally, an OpenWeatherMap API key is required. To get the API key, visit their website and create a free account.
 Installation:
 Clone or download the repository to your local machine.
 Install the required dependencies using pip:
